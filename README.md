@@ -5,6 +5,8 @@
 ## Description
 
 Sample of creating and altering a SVG tag.
+<br/>
+Please see an example of this code within <a href="http://powerdigitalmedia.net/xamples/colorchanger">"Color Changer"</a>
 
 
 #### `( FILE: car/view.js )`
