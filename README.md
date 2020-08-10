@@ -18,5 +18,3 @@ Sample of creating and altering a SVG tag.
 * helper functions for adjusting color percentages
 
 
-# js-svg
-# js-svg
